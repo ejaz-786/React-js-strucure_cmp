@@ -1,0 +1,51 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+#cmp1{
+    height: 8vh;
+    width: 90%;
+    margin: auto;
+    margin-top: 15px;
+    border: 2px solid red;
+    padding: 15px;
+}
+.cmp2{
+    height: 52vh;
+    width: 50%;
+    border: 2px solid red;
+    margin-top: 30px;
+    margin-left: 4%;
+    float: left;
+    padding: 10px;
+}
+.cmp3{
+    height: 52vh;
+    width: 37%;
+    border: 2px solid red;
+    margin-top: 30px;
+    margin-left: 30px;
+    float: left; 
+    padding: 10px;
+}
+.sub1{
+  height: 18vh;
+  width: 80%;
+  border: 2px solid rgb(239, 7, 7);
+  margin: 10px;
+  padding: 10px;
+}
+.sub2{
+    height: 18vh;
+    width: 80%;
+    border: 2px solid rgb(228, 12, 12);
+    margin: 10px;
+    padding: 10px;
+}
+.container{
+    height: 80vh;
+    width: 98%;
+    margin: auto;
+    border: 2px solid red;
+    padding: 10px;
+}
